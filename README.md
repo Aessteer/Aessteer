@@ -99,4 +99,4 @@
 [jsplaylist]: https://www.youtube.com/Aessteer
 [cssplaylist]: https://www.youtube.com/Aessteer
 [reactplaylist]: https://www.youtube.com/Aessteer
-[github,com]: https://github.com
+[github.com]: https://github.com
