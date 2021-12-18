@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=ipxel.com&style=for-the-badge&url=https%3A%2F%2Fipixel.cf)](https://ipixel.cf)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Aessteer?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Aessteer)
 
-## I'm a Designer , Front-End Developer!!
+## I'm a Graphic Designer , Front-End Developer!!
 
 - 🔭 I just launched my first Website: [IPIXEL][website]!
 - 🌱 I’m currently learning everything 🤣
