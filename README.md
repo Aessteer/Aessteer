@@ -78,7 +78,6 @@
 [twitter]: https://twitter.com/Aessteer
 [youtube]: https://youtube.com/Aessteer
 [instagram]: https://instagram.com/Aessteer
-[linkedin]: https://linkedin.com/in/Aessteer
 [webdevplaylist]: https://www.youtube.com/Aessteer
 [jsplaylist]: https://www.youtube.com/Aessteer
 [cssplaylist]: https://www.youtube.com/Aessteer
