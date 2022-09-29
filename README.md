@@ -5,7 +5,7 @@
 
 ## I'm a Graphic Designer , Front-End Developer!!
 
-- 🔭 I just launched my first Website: [IPIXEL][website]!
+- 🔭 I launched my New Company : [Bekhwd][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to draw and listen to music 
@@ -42,7 +42,7 @@
 ---
 
 
-[website]: https://ipixel.cf
+[website]: https://bekhwd.xyz
 [twitter]: https://twitter.com/Aessteer
 [youtube]: https://youtube.com/Aessteer
 [instagram]: https://instagram.com/Aessteer
@@ -50,4 +50,4 @@
 [jsplaylist]: https://www.youtube.com/Aessteer
 [cssplaylist]: https://www.youtube.com/Aessteer
 [reactplaylist]: https://www.youtube.com/Aessteer
-[github.com]: https://github.com
+[github.com]: https://github.com/Aessteer
